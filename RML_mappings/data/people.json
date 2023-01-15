@@ -1,0 +1,64 @@
+{
+ "people": [
+   {
+     "id": 1,
+     "name": "John Smith",
+     "organization": "Acme Inc.",
+     "works_with": ["Jane Doe", "Bob Johnson"]
+   },
+   {
+     "id": 2,
+     "name": "Jane Doe",
+     "organization": "Acme Inc.",
+     "works_with": ["John Smith", "Bob Johnson"]
+   },
+   {
+     "id": 3,
+     "name": "Bob Johnson",
+     "organization": "Acme Inc.",
+     "works_with": ["John Smith", "Jane Doe"]
+   },
+   {
+     "id": 4,
+     "name": "Amy Patel",
+     "organization": "XYZ Corp.",
+     "works_with": ["Mike Davis", "Chris Martin"]
+   },
+   {
+     "id": 5,
+     "name": "Mike Davis",
+     "organization": "XYZ Corp.",
+     "works_with": ["Amy Patel", "Chris Martin"]
+   },
+   {
+     "id": 6,
+     "name": "Chris Martin",
+     "organization": "XYZ Corp.",
+     "works_with": ["Amy Patel", "Mike Davis"]
+   },
+   {
+     "id": 7,
+     "name": "Jessica Williams",
+     "organization": "ABC Inc.",
+     "works_with": ["David Lee", "Sara Thompson"]
+   },
+   {
+     "id": 8,
+     "name": "David Lee",
+     "organization": "ABC Inc.",
+     "works_with": ["Jessica Williams", "Sara Thompson"]
+   },
+   {
+     "id": 9,
+     "name": "Sara Thompson",
+     "organization": "ABC Inc.",
+     "works_with": ["Jessica Williams", "David Lee"]
+   },
+   {
+     "id": 10,
+     "name": "Jacob Brown",
+     "organization": "MNO Corp.",
+     "works_with": ["Emily Davis", "Michael Taylor"]
+   }
+ ]
+}

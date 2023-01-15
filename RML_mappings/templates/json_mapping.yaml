@@ -1,0 +1,13 @@
+prefixes:
+  ex: "https://example.org#"
+  schema: "https://schema.org/"
+sources:
+  main-source: ['people_reale.json~jsonpath', '$.people.*']
+mappings:
+  People:
+    sources:
+      - main-source
+
+    s: TO DO
+    po:
+      - [a, TO DO]

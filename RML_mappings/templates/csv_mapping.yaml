@@ -1,0 +1,13 @@
+prefixes:
+  ex: "https://example.org#"
+  schema: "https://schema.org/"
+sources:
+  main-source: ['factors~csv']
+mappings:
+  People:
+    sources:
+      - main-source
+
+    s: https://example/CF/$(TO DO)
+    po:
+      - [a, TO DO]
